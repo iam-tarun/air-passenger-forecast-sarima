@@ -11,12 +11,6 @@ This project leverages the Seasonal Autoregressive Integrated Moving Average (SA
 
 ## Project Overview
 
-Certainly! Here's a brief overview of your forecasting project on air passenger data using the SARIMA model:
-
----
-
-**Project Overview:**
-
 This project focuses on utilizing the SARIMA (Seasonal Autoregressive Integrated Moving Average) model to forecast air passenger data. The primary objective is to predict future trends in air travel demand based on historical patterns. By analyzing the seasonality and underlying patterns in the data, the project aims to provide accurate and actionable predictions for airline industry stakeholders.
 
 **Objectives:**
@@ -45,12 +39,6 @@ The Air Passengers dataset used in this project was sourced from the "Internatio
 
 ## Methods and Techniques
 
-Certainly! Here's a concise overview of the methods and techniques used in your forecasting project:
-
----
-
-**Methods and Techniques:**
-
 1. **Data Preprocessing:**
    - Address missing values through interpolation.
    - Convert date-related columns to datetime format.
@@ -74,8 +62,6 @@ Certainly! Here's a concise overview of the methods and techniques used in your 
    - Fine-tune hyperparameters based on grid search results.
 
 By employing these techniques, the project aims to build an accurate SARIMA model for forecasting air passenger demand.
-
----
 
 ## Results
 
