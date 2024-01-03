@@ -57,12 +57,13 @@ The Air Passengers dataset used in this project was sourced from the "Internatio
    - Assess model performance using metrics like MSE and MAE.
    - Visualize time series plots and predicted vs. actual comparisons.
 
-5. **Optimization and Fine-Tuning:**
-   - Conduct grid search for SARIMA hyperparameter exploration.
-   - Fine-tune hyperparameters based on grid search results.
 
 By employing these techniques, the project aims to build an accurate SARIMA model for forecasting air passenger demand.
 
 ## Results
-
+ - I chose MSE, RMSE and MAE as evaluation metrics
+ - Mean Squared Error (MSE): 5395.590589552184
+ - Mean Absolute Error (MAE): 67.58762440297782
+ - Root Mean Squared Error (RMSE): 73.4546839184009
+ - From the above metric values, my predictions are off by +/- 67 passengers in any given future month.
 
